@@ -43,3 +43,5 @@ print(min(max(False,-30,-4),12,7))
 # print(numbers *2)
 # for n in fruits:
 #     print(n)
+
+print ('coding is cool')
